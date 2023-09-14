@@ -1,5 +1,10 @@
 # Algorithme_Moyenne
 
+/!\Pré-requis/!\
+
+Il faut python d'installer sur votre machine si vous ne l'avez pas installer le ici: https://www.microsoft.com/store/productid/9NRWMJP3717K?ocid=pdpshare
+
+
 Pour changer le nombre de température à calculer:
 
 -ouvrer le fichier Algorithme.py avec un éditeur de code
