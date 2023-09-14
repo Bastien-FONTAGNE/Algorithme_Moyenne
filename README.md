@@ -2,9 +2,9 @@
 
 v1.0:
 
-Algorithme créer pour calculer la moyenne de 31 température
+-Algorithme créer pour calculer la moyenne de 31 température
 
-changer la valeur "31" dans "for i in range(31)" et dans "Moyenne = Total/31" pour changer le nombre de température à calculer
+-changer la valeur "31" dans "for i in range(31)" et dans "Moyenne = Total/31" pour changer le nombre de température à calculer
 
 v1.1: 
 
