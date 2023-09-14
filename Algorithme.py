@@ -19,6 +19,9 @@ for i in range(31): #Répétez 31 fois
 
     Moyenne = Total/31 #Calcule la moyenne
 
+    etendue = temperature_max - temperature_min #Calcule l'étendue
+
 print(f"La moyenne des températures est de {Moyenne}") #Affiche la moyenne 
 print(f"La température minimale est de {temperature_min}") #Affiche la température minimale
 print(f"La température maximale est de {temperature_max} ") #Affiche la température maximale
+print(f"L'étendue est de {etendue}") #Affiche l'étendue
