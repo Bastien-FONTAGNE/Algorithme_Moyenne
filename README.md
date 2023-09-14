@@ -2,7 +2,7 @@
 
 /!\Pré-requis/!\
 
-Il faut python d'installer sur votre machine si vous ne l'avez pas installer le ici: https://www.microsoft.com/store/productid/9NRWMJP3717K?ocid=pdpshare
+Il faut python d'installer sur votre machine sinon le .bat ne fonctionne pas, si vous ne l'avez pas installer le ici: https://www.microsoft.com/store/productid/9NRWMJP3717K?ocid=pdpshare
 
 
 Pour changer le nombre de température à calculer:
