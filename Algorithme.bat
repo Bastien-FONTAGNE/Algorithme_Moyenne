@@ -1,3 +1,3 @@
 @echo off
-py Algorithme.bat
+python Algorithme.bat
 pause
